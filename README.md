@@ -2,7 +2,7 @@
 Welcome to the my-html-notes repository! 
 - This repository contains advanced tips, tricks, and lesser-known concepts related to HTML that are not commonly discussed but can greatly enhance the understanding of the language. 
 - It aims to provide valuable insights beyond the basics, which can be useful for those already familiar with HTML or for beginners who want to explore the lesser-known aspects of the language.
-
+- These are some of the things I've learnt.
 
 
 ## Acknowledgements
