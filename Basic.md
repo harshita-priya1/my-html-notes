@@ -43,3 +43,6 @@ It must only appear once, at the top of the page (before any HTML tags).
 The <!DOCTYPE> declaration is not case sensitive.
 The <!DOCTYPE> declaration for HTML5 is:
 <!DOCTYPE html>
+
+
+# TIP: HTML tags are not case sensitive: <P> means the same as <p>. lowercase is needed only for XHTML so itsa a good practice.
