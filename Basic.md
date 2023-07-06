@@ -51,3 +51,7 @@ The <!DOCTYPE> declaration for HTML5 is:
 - Absolute URL - Links to an external image that is hosted on another website. Example: src="https://www.w3schools.com/images/img_girl.jpg".
 Notes: External images might be under copyright. If you do not get permission to use it, you may be in violation of copyright laws. In addition, you cannot control external images; it can suddenly be removed or changed.
 - Relative URL - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="img_girl.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
+# Here,the first two characters define the language of the HTML page, and the last two characters define the country. <html lang="en-US">
+# In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes, <p title='John "ShotGun" Nelson'>
+# pre tag is used when we want 
+
