@@ -53,5 +53,5 @@ Notes: External images might be under copyright. If you do not get permission to
 - Relative URL - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="img_girl.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
 # Here,the first two characters define the language of the HTML page, and the last two characters define the country. <html lang="en-US">
 # In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes, <p title='John "ShotGun" Nelson'>
-# pre tag is used when we want 
+# pre tag is used when we want the text to appear as it is , i.e., when the text is pre-formatted and we want all the spaces,etc., are preserved.
 
