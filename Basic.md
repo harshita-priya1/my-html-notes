@@ -54,4 +54,16 @@ Notes: External images might be under copyright. If you do not get permission to
 # Here,the first two characters define the language of the HTML page, and the last two characters define the country. <html lang="en-US">
 # In some situations, when the attribute value itself contains double quotes, it is necessary to use single quotes, <p title='John "ShotGun" Nelson'>
 # pre tag is used when we want the text to appear as it is , i.e., when the text is pre-formatted and we want all the spaces,etc., are preserved.
-
+# The CSS text-align property defines the horizontal text alignment for an HTML element
+# HTML Formatting Elements
+Formatting elements were designed to display special types of text:
+ • <b> - Bold text
+ • <strong> - Important text
+ • <i> - Italic text
+ • <em> - Emphasized text
+ • <mark> - Marked text
+ • <small> - Smaller text
+ • <del> - Deleted text
+ • <ins> - Inserted text
+ • <sub> - Subscript text
+ • <sup> - Superscript text
