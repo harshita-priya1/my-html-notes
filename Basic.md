@@ -67,3 +67,4 @@ Formatting elements were designed to display special types of text:
  • <ins> - Inserted text
  • <sub> - Subscript text
  • <sup> - Superscript text
+# Tip: A screen reader will pronounce the words in <em> with an emphasis, using verbal stress.
