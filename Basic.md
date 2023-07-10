@@ -68,3 +68,4 @@ Formatting elements were designed to display special types of text:
  • <sub> - Subscript text
  • <sup> - Superscript text
 # Tip: A screen reader will pronounce the words in <em> with an emphasis, using verbal stress.
+# html quotation and citation elements: the <blockquote>,<q>, <abbr>, <address>, <cite>, and <bdo> HTML elements
