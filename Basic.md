@@ -71,3 +71,4 @@ Formatting elements were designed to display special types of text:
 # html quotation and citation elements: "the <blockquote>,<q>, <abbr>, <address>, <cite>, and <bdo> HTML elements"
 # for abbr tag, Tip: Use the global title attribute to show the description for the abbreviation/acronym when you mouse over the element.
 # The text in the <address> element usually renders in italic, and browsers will always add a line break before and after the <address> element.
+# Note: A person's name is not the title of a work. The text in the <cite> element usually renders in italic.
