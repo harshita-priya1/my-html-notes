@@ -12,3 +12,5 @@ The target attribute can have one of the following values:
  - _blank - Opens the document in a new window or tab
  - _parent - Opens the document in the parent frame
  - _top - Opens the document in the full body of the window
+# mailto: in href to open users email program
+# button as a link : <button onclick="document.location='default.asp'">HTML Tutorial</button>
