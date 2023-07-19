@@ -13,4 +13,18 @@ The target attribute can have one of the following values:
  - _parent - Opens the document in the parent frame
  - _top - Opens the document in the full body of the window
 # mailto: in href to open users email program
-# button as a link : <button onclick="document.location='default.asp'">HTML Tutorial</button>
+# button as a link : <button onclick="document.location='default.asp'">HTML Tutorial</button> 
+# <style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
