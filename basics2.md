@@ -67,3 +67,5 @@ a:hover, a:active {
 
 </body>
 </html>
+# for one in anotherb page: <a href="html_demo.html#C4">Jump to Chapter 4</a>
+# for img tag: The required alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
