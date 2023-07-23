@@ -69,3 +69,5 @@ a:hover, a:active {
 </html>
 # for one in anotherb page: <a href="html_demo.html#C4">Jump to Chapter 4</a>
 # for img tag: The required alt attribute provides an alternate text for an image, if the user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+# Use the CSS float property to let the image float to the right or to the left of a text
+# image file formats supported: # apng,png,gif,ico,jpeg,svg
