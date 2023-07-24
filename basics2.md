@@ -73,11 +73,11 @@ a:hover, a:active {
 # image file formats supported: # apng,png,gif,ico,jpeg,svg
 # Tag
 Description
-<img>
+img->
 Defines an image
-<map>
+map->
 Defines an image map
-<area>
+area->
 Defines a clickable area inside an image map
-<picture>
+picture->
 Defines a container for multiple image resources
