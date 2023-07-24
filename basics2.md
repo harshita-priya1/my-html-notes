@@ -74,10 +74,12 @@ a:hover, a:active {
 # Tag
 Description
 img->
-Defines an image
+Defines an image,
 map->
-Defines an image map
+Defines an image map,
 area->
-Defines a clickable area inside an image map
+Defines a clickable area inside an image map,
 picture->
 Defines a container for multiple image resources
+
+# The HTML <map> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <area> tags.
