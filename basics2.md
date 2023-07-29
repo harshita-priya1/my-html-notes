@@ -1,4 +1,4 @@
-# BDO stands for Bi-Directional Override.
+7# BDO stands for Bi-Directional Override.
 The HTML <bdo> tag is used to override the current text direction
 # <!-- Write your comments here -->
 # HTML colors are specified with predefined color names, or with RGB, HEX, HSL, RGBA, or HSLA values.
@@ -83,3 +83,16 @@ picture->
 Defines a container for multiple image resources
 
 # The HTML <map> tag defines an image map. An image map is an image with clickable areas. The areas are defined with one or more <area> tags.
+# <img src="workplace.jpg" alt="Workplace" usemap="#workmap">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+</map>
+# You must define the shape of the clickable area, and you can choose one of these values:
+ • rect - defines a rectangular region
+ • circle - defines a circular region
+ • poly - defines a polygonal region
+ • default - defines the entire region
+# <area shape="rect" coords="34, 44, 270, 350" href="computer.htm">
