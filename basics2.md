@@ -96,3 +96,7 @@ Defines a container for multiple image resources
  • poly - defines a polygonal region
  • default - defines the entire region
 # <area shape="rect" coords="34, 44, 270, 350" href="computer.htm">
+# ***background attachmnet for bgimg
+# The HTML <picture> element gives web developers more flexibility in specifying image resources.
+The <picture> element contains one or more <source> elements, each referring to different images through the srcset attribute. This way the browser can choose the image that best fits the current view and/or device.
+Each <source> element has a media attribute that defines when the image is the most suitable.
