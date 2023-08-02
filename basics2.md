@@ -111,3 +111,5 @@ Each <source> element has a media attribute that defines when the image is the m
 If you have a small screen or device, it is not necessary to load a large image file. The browser will use the first <source> element with matching attribute values, and ignore any of the following elements.
 2. Format Support
 Some browsers or devices may not support all image formats. By using the <picture> element, you can add images of all formats, and the browser will use the first format it recognizes, and ignore any of the following elements.
+# A favicon is a small image displayed next to the page title in the browser tab.
+# 
