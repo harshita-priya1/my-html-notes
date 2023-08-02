@@ -112,4 +112,16 @@ If you have a small screen or device, it is not necessary to load a large image 
 2. Format Support
 Some browsers or devices may not support all image formats. By using the <picture> element, you can add images of all formats, and the browser will use the first format it recognizes, and ignore any of the following elements.
 # A favicon is a small image displayed next to the page title in the browser tab.
-# 
+# <!DOCTYPE html>
+<html>
+<head>
+  <title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
